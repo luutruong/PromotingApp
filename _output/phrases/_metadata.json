@@ -1,0 +1,38 @@
+{
+    "option.tl_PromotingApps_appStoreID.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "c0d3ac8ce4abd9ec1de6e159362591c6"
+    },
+    "option.tl_PromotingApps_playstoreID.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "2cea734e24cf17ae58e90be835a261fb"
+    },
+    "option_explain.tl_PromotingApps_appStoreID.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.tl_PromotingApps_playstoreID.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_group.tl_PromotingApps.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "b7f11ed07efeee198736b3843d5f9d09"
+    },
+    "option_group_description.tl_PromotingApps.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    }
+}

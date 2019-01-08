@@ -1,0 +1,13 @@
+<xf:macro name="meta">
+    <xf:if is="$xf.options.tl_PromotingApps_appStoreID">
+        <meta name="apple-itunes-app"
+              content="app-id={$xf.options.tl_PromotingApps_appStoreID}">
+    </xf:if>
+    <xf:if is="$xf.options.tl_PromotingApps_playstoreID">
+        <xf:js src="Truonglv/PromotingApp/jquery.smartbanner.js" min="1" addon="Truonglv/PromotingApp" />
+        <xf:css src="promoting_app_smartbanner.css" />
+        <meta name="google-play-app"
+              content="app-id={$xf.options.tl_PromotingApps_playstoreID}">
+        <xf:js>$(document).ready(function() { $.smartbanner(); });</xf:js>
+    </xf:if>
+</xf:macro>
